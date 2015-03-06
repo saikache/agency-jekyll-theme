@@ -297,10 +297,33 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+.dev_maisa{
+float: right;
+position: relative;
+width: 100px;
+margin-top: -60px;
+margin-right: 80px;
+}
+
+.we_build{
+    font-size: 2em;
+    color:#890000;
+    font-family: -webkit-body;
+    font-weight:bold; 
+}
+
+.we_off h3{
+    font-size:1.5em;
+    color:#fff;
+    margin-left: 94px;
+    margin-top: 32px;
+    font-family: -webkit-body;
+    font-weight:bold; 
+}
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 170px;
+        padding-bottom: 100px;
     }
 
     header .intro-text .intro-lead-in {

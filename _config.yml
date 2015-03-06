@@ -1,8 +1,9 @@
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+baseurl: ""
 
 # Site settings
-title: Awesome Title
+title: Maisa Solutions
+pic: logo
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
@@ -14,9 +15,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Pradeep Benjaram
   pic: 1
-  position: Lead Designer
+  position: Founder & M.D.
   social:
     - title: twitter
       url: #
@@ -25,9 +26,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Niveditha Reddy
   pic: 2
-  position: Lead Marketer
+  position: Director of Human Resources
   social:
     - title: twitter
       url: #
@@ -36,9 +37,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Prasanna Patil
   pic: 3
-  position: Lead Developer
+  position: Director of U.S. Ops
   social:
     - title: twitter
       url: #
@@ -63,7 +64,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Beverly Hills , CA 90210
 
 # Build settings
 markdown: kramdown
